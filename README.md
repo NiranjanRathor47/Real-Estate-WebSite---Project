@@ -2,6 +2,11 @@
 Description:
 The Real Estate Management System is a comprehensive web application designed to streamline and automate various processes related to real estate management. Whether you're a real estate agency, property owner, or tenant, this system provides a user-friendly interface to manage properties, listings, transactions, and more.
 
+# Output
+
+![Real-Estate](https://github.com/NiranjanRathor47/Real-Estate-Website-React.JS----Project/assets/84126253/d9f26931-ccea-4391-b98e-0bda5e6738ae)
+
+
 ## Features
 
 - **Advanced Search:** Users can search for properties based on various criteria such as location, price range, property type, and number of bedrooms. The search functionality is designed to provide accurate and relevant results.
